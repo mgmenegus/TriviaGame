@@ -1,0 +1,18 @@
+body {
+	background-image: url(https://i.pinimg.com/originals/b7/79/7f/b7797f3922228d0dd4cf4d22f9e6c214.jpg);
+	background-size: 100%;
+	
+}
+
+.jumbotron {
+	background-color: rgba(255, 255, 255, .7);
+	
+}
+
+.lead {
+	font-size: 200%;
+}
+
+.row {
+	display: block;
+}
